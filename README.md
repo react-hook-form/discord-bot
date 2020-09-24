@@ -17,14 +17,6 @@
 
 </div>
 
-<div align="center">
-    <p align="center">
-        <a href="https://react-hook-form.com" title="React Hook Form - Simple React forms validation">
-            <img src="https://raw.githubusercontent.com/bluebill1049/react-hook-form/master/website/example.gif" alt="React Hook Form video - React custom hook for form validation" width="100%" />
-        </a>
-    </p>
-</div>
-
 A Discord bot for react-hook-form server
 
 ## Sponsors
